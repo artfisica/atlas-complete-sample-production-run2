@@ -1,11 +1,5 @@
 {
-    "gitbook": "2.x.x",
     "plugins": ["youtube","mathjax","comments"],
-    "links": {
-        "sidebar": {
-            "Contact us / Support": "https://www.gitbook.com/contact"
-        }
-    },
     "pluginsConfig": {
         "fontSettings": {
             "theme": "night",
@@ -13,6 +7,9 @@
             "size": 2
         }
     },
-    
-    "theme": "./localtheme",
+    "links": {
+        "sidebar": {
+            "Contact us / Support": "https://www.gitbook.com/contact"
+        }
+    }
 }
