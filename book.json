@@ -6,11 +6,11 @@
             "Contact us / Support": "https://www.gitbook.com/contact"
         }
     },
-
     "pluginsConfig": {
         "fontSettings": {
             "theme": "night",
             "family": "sans",
             "size": 1
         }
+    }    
 }
