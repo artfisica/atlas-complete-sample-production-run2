@@ -1,4 +1,4 @@
-# First Chapter: Generation
+# Generation
 
 Generation of MonteCarlo Events
 

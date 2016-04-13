@@ -1,4 +1,4 @@
-# Seventh Chapter: DxAOD Truth
+# DxAOD Truth
 
 
 ```bash
