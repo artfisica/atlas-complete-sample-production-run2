@@ -18,7 +18,7 @@ pathena \
   --extOutFile DAOD_SUSY7.test.pool.root \
   --nFilesPerJob=1 \
   --individualOutDS \
-  --inDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.AOD.v3_EXT0/ \
-  --outDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.DAOD_SUSY7_p2425.v2/ \
+  --inDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.AOD.v3_EXT0 \
+  --outDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.DAOD_SUSY7_p2425.v2 \
   --destSE INFN-NAPOLI-ATLAS_LOCALGROUPDISK
 ```

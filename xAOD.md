@@ -19,7 +19,7 @@ pathena \
      --numberOfCavernBkg=0 \
      --pileupFinalBunch=6 \
      --runNumber=305323" \
-  --inDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.SIM.v2_EXT0/ \
+  --inDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.SIM.v2_EXT0 \
   --outDS user.<grid_user_name>.mc15_13TeV.305323.MGPy8EG_N30LO_A14N23LO_DM_BBscalar_p20_c1_jpt100.AOD.v3 \
   --skipScout \
   --nFilesPerJob=1 \
