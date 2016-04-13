@@ -3,6 +3,7 @@
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
+## Help
 ```bash
 usage: Reco_tf.py [-h] [--verbose]
                   [--loglevel {INFO,CRITICAL,VERBOSE,WARNING,ERROR,DEBUG,FATAL}]
