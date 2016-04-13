@@ -12,5 +12,7 @@
             "family": "sans",
             "size": 2
         }
-    }
+    },
+    
+    "theme": "./localtheme",
 }
